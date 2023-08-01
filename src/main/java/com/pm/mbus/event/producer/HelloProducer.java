@@ -1,7 +1,6 @@
 package com.pm.mbus.event.producer;
 
 import com.pm.mbus.config.KafkaProducerConfig;
-import jakarta.websocket.SendResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.kafka.core.KafkaTemplate;
